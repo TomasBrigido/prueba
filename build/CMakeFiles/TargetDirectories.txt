@@ -1,3 +1,0 @@
-/home/tomas/Documentos/prueba/prueba/build/CMakeFiles/programa.dir
-/home/tomas/Documentos/prueba/prueba/build/CMakeFiles/edit_cache.dir
-/home/tomas/Documentos/prueba/prueba/build/CMakeFiles/rebuild_cache.dir
