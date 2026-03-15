@@ -4,43 +4,6 @@ Este proyecto es un ejemplo simple de cómo estructurar un programa en C utiliza
 
 El objetivo del proyecto es mostrar cómo organizar un código en múltiples directorios y cómo usar `CMakeLists.txt` para compilar el programa correctamente.
 
----
-
-## Estructura del proyecto
-
-```
-mi_proyecto/
-│
-├── CMakeLists.txt
-│
-├── src/
-│   ├── main.c
-│   └── CMakeLists.txt
-│
-├── math/
-│   ├── suma.c
-│   ├── resta.c
-│   └── CMakeLists.txt
-│
-├── include/
-│   ├── suma.h
-│   └── resta.h
-│
-└── build/
-```
-
-### Descripción de los directorios
-
-* **src/**
-  Contiene el punto de entrada del programa (`main.c`) y la lógica principal del ejecutable.
-
-* **math/**
-  Contiene la implementación de funciones matemáticas que se compilan como una biblioteca interna.
-
-* **include/**# Proyecto C con CMake
-
-Este proyecto es un ejemplo simple de un programa en C que utiliza **CMake** para la gestión de la compilación. Incluye una biblioteca estática para operaciones matemáticas (como la suma), un ejecutable principal y pruebas unitarias.
-
 ## Estructura del Proyecto
 
 ```
